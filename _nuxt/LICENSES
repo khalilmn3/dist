@@ -46,6 +46,8 @@
  * SOFTWARE.
  */
 
+//! moment.js
+
 
 /*!
  * Vue.js v2.7.10
