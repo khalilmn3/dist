@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/blog/Nieuwe%20loyalty%20programmas%20op%20Blockchain", {data:[{}],fetch:{},mutations:void 0});
